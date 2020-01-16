@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAzurePipelineGit.Android", "TestAzurePipelineGit\TestAzurePipelineGit.Android\TestAzurePipelineGit.Android.csproj", "{8F63CA27-B205-4185-87F2-15D61D868280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAzurePipelineGit.iOS", "TestAzurePipelineGit\TestAzurePipelineGit.iOS\TestAzurePipelineGit.iOS.csproj", "{9E5CFD15-7535-4124-829E-37D619E94713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAzurePipelineGit", "TestAzurePipelineGit\TestAzurePipelineGit\TestAzurePipelineGit.csproj", "{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Release|iPhone.Build.0 = Release|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{8F63CA27-B205-4185-87F2-15D61D868280}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Debug|Any CPU.Deploy.0 = Debug|iPhoneSimulator
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Debug|iPhone.Build.0 = Debug|iPhone
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Release|Any CPU.Build.0 = Release|iPhone
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Release|Any CPU.Deploy.0 = Release|iPhone
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Release|iPhone.Build.0 = Release|iPhone
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Release|iPhone.Deploy.0 = Release|iPhone
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{9E5CFD15-7535-4124-829E-37D619E94713}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Release|iPhone.Build.0 = Release|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{6D9B3512-FB8F-47D5-BCBC-1AEFA31EB9B2}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30898E77-9E18-4CE4-970E-25F5578231E8}
+	EndGlobalSection
+EndGlobal
